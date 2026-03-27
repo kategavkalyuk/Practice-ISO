@@ -8,4 +8,5 @@
 1. Prometheus + node_exporter
 2. Веб-сервис + метрики
 3. Grafana + Loki + Promtail
+
 Скриншоты приложены в файле "практика 27.03.docx" в репозитории.
